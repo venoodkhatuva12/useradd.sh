@@ -1,4 +1,6 @@
 #!/bin/bash
+#Author: Vinod.N K
+#Distro : Linux -Centos, Rhel, and any fedora
 read -p "Please Enter the Username : " user
 useradd $user
 passwd $user
